@@ -1,0 +1,319 @@
+definir_course 15
+inscrire_skieur Worley France
+inscrire_skieur Shiffrin USA
+inscrire_skieur Brigone Italie
+inscrire_skieur Mowinckel Norvege
+inscrire_skieur Rebensburg Allemagne
+inscrire_skieur Bassino Italie
+inscrire_skieur Hansdotter Suede
+inscrire_skieur Moelgg Italie
+inscrire_skieur Fenninger Autriche
+inscrire_skieur Goggia Italie
+inscrire_skieur Vonn USA
+inscrire_skieur Holdener Suisse
+inscrire_skieur Weirather Liechtenstein
+inscrire_skieur Fanchini Italie
+inscrire_skieur Gisin Suisse
+inscrire_skieur Rebensburg Allemagne
+inscrire_skieur Vlhova Slovaquie
+inscrire_skieur Curtoni Italie
+inscrire_skieur Ferk Slovenie
+inscrire_skieur Hansdotter Suede
+inscrire_skieur Johnson USA
+inscrire_skieur Gut Suisse
+inscrire_skieur Suter Suisse
+inscrire_skieur Shild Autriche
+inscrire_skieur Alphand France
+enregistrer_temps 0 0 101
+enregistrer_temps 19.82 1 101
+enregistrer_temps 35.46 2 101
+disqualification 3 101 
+enregistrer_temps 120 0 102
+enregistrer_temps 137.11 1 102
+enregistrer_temps 154.54 2 102
+enregistrer_temps 172.13 3 102
+enregistrer_temps 188.31 4 102
+enregistrer_temps 203.9 5 102
+enregistrer_temps 219.16 6 102
+enregistrer_temps 234.64 7 102
+enregistrer_temps 240 0 103
+enregistrer_temps 253.46 8 102
+enregistrer_temps 256.87 1 103
+enregistrer_temps 269.74 9 102
+enregistrer_temps 273.9 2 103
+enregistrer_temps 286.09 10 102
+enregistrer_temps 292.91 3 103
+enregistrer_temps 302.27 11 102
+disqualification 4 103 
+enregistrer_temps 319.98 12 102
+enregistrer_temps 335.43 13 102
+enregistrer_temps 350.64 14 102
+enregistrer_temps 360 0 104
+enregistrer_temps 366.54 15 102
+enregistrer_temps 378 1 104
+enregistrer_temps 394.71 2 104
+enregistrer_temps 410.27 3 104
+enregistrer_temps 428.75 4 104
+enregistrer_temps 447 5 104
+enregistrer_temps 463.3 6 104
+disqualification 7 104 
+enregistrer_temps 480 0 105
+enregistrer_temps 498.13 1 105
+enregistrer_temps 517.47 2 105
+enregistrer_temps 536.2 3 105
+enregistrer_temps 554.04 4 105
+enregistrer_temps 572.73 5 105
+enregistrer_temps 592.62 6 105
+enregistrer_temps 600 0 106
+enregistrer_temps 608.53 7 105
+enregistrer_temps 616.9 1 106
+enregistrer_temps 623.91 8 105
+enregistrer_temps 634.82 2 106
+enregistrer_temps 641.87 9 105
+enregistrer_temps 650.96 3 106
+enregistrer_temps 658.99 10 105
+enregistrer_temps 668.09 4 106
+enregistrer_temps 675.12 11 105
+enregistrer_temps 684.46 5 106
+disqualification 12 105 
+enregistrer_temps 701.58 6 106
+enregistrer_temps 719.7 7 106
+enregistrer_temps 720 0 107
+disqualification 8 106 
+enregistrer_temps 735.32 1 107
+enregistrer_temps 752.2 2 107
+enregistrer_temps 769.14 3 107
+enregistrer_temps 784.43 4 107
+enregistrer_temps 800.83 5 107
+enregistrer_temps 816.75 6 107
+enregistrer_temps 832.47 7 107
+enregistrer_temps 840 0 108
+enregistrer_temps 848.96 8 107
+enregistrer_temps 856.01 1 108
+enregistrer_temps 867.26 9 107
+enregistrer_temps 873.14 2 108
+enregistrer_temps 883.34 10 107
+enregistrer_temps 890.88 3 108
+enregistrer_temps 899.64 11 107
+enregistrer_temps 909.85 4 108
+enregistrer_temps 919.28 12 107
+enregistrer_temps 928.64 5 108
+enregistrer_temps 934.8 13 107
+enregistrer_temps 945.05 6 108
+enregistrer_temps 953.09 14 107
+enregistrer_temps 960 0 109
+enregistrer_temps 963.84 7 108
+enregistrer_temps 971.5 15 107
+enregistrer_temps 978.89 1 109
+enregistrer_temps 981.27 8 108
+enregistrer_temps 997.25 2 109
+enregistrer_temps 999.46 9 108
+enregistrer_temps 1014.59 3 109
+enregistrer_temps 1018.58 10 108
+enregistrer_temps 1031.52 4 109
+enregistrer_temps 1035.67 11 108
+enregistrer_temps 1051.21 12 108
+enregistrer_temps 1051.24 5 109
+enregistrer_temps 1068.2 6 109
+enregistrer_temps 1070.61 13 108
+enregistrer_temps 1080 0 110
+enregistrer_temps 1083.42 7 109
+enregistrer_temps 1088.86 14 108
+enregistrer_temps 1096.52 1 110
+enregistrer_temps 1101.08 8 109
+enregistrer_temps 1107.27 15 108
+enregistrer_temps 1112.89 2 110
+enregistrer_temps 1117.91 9 109
+enregistrer_temps 1131 3 110
+enregistrer_temps 1134.95 10 109
+enregistrer_temps 1146.89 4 110
+enregistrer_temps 1153.23 11 109
+enregistrer_temps 1164.82 5 110
+enregistrer_temps 1170.53 12 109
+enregistrer_temps 1180.63 6 110
+enregistrer_temps 1189.83 13 109
+enregistrer_temps 1198.37 7 110
+enregistrer_temps 1200 0 111
+enregistrer_temps 1206.13 14 109
+disqualification 1 111 
+enregistrer_temps 1215.25 8 110
+enregistrer_temps 1222.52 15 109
+enregistrer_temps 1234.1 9 110
+enregistrer_temps 1251.64 10 110
+enregistrer_temps 1269.53 11 110
+enregistrer_temps 1288.19 12 110
+enregistrer_temps 1304.48 13 110
+enregistrer_temps 1320 0 112
+enregistrer_temps 1323.03 14 110
+enregistrer_temps 1337.22 1 112
+enregistrer_temps 1341.51 15 110
+enregistrer_temps 1355.88 2 112
+enregistrer_temps 1373.87 3 112
+enregistrer_temps 1389.6 4 112
+enregistrer_temps 1409.28 5 112
+enregistrer_temps 1428.15 6 112
+enregistrer_temps 1440 0 113
+enregistrer_temps 1446.61 7 112
+enregistrer_temps 1458.68 1 113
+enregistrer_temps 1464.28 8 112
+enregistrer_temps 1475.12 2 113
+enregistrer_temps 1480.99 9 112
+enregistrer_temps 1490.75 3 113
+enregistrer_temps 1498.84 10 112
+enregistrer_temps 1509.29 4 113
+enregistrer_temps 1516.27 11 112
+enregistrer_temps 1525.6 5 113
+enregistrer_temps 1534.21 12 112
+disqualification 6 113 
+enregistrer_temps 1551.62 13 112
+enregistrer_temps 1560 0 114
+enregistrer_temps 1567.98 14 112
+enregistrer_temps 1577.5 1 114
+enregistrer_temps 1585.31 15 112
+enregistrer_temps 1594.72 2 114
+enregistrer_temps 1611.9 3 114
+enregistrer_temps 1629.99 4 114
+enregistrer_temps 1647.52 5 114
+enregistrer_temps 1666.59 6 114
+enregistrer_temps 1680 0 115
+enregistrer_temps 1686.17 7 114
+enregistrer_temps 1696.08 1 115
+enregistrer_temps 1702.21 8 114
+enregistrer_temps 1715.31 2 115
+enregistrer_temps 1720.68 9 114
+enregistrer_temps 1731.05 3 115
+enregistrer_temps 1740.12 10 114
+enregistrer_temps 1750.54 4 115
+enregistrer_temps 1757.92 11 114
+enregistrer_temps 1767.62 5 115
+enregistrer_temps 1774.46 12 114
+enregistrer_temps 1787.1 6 115
+enregistrer_temps 1794.18 13 114
+enregistrer_temps 1800 0 116
+enregistrer_temps 1804.4 7 115
+enregistrer_temps 1810.01 14 114
+enregistrer_temps 1818.91 1 116
+enregistrer_temps 1820.37 8 115
+enregistrer_temps 1826.19 15 114
+enregistrer_temps 1837.28 2 116
+enregistrer_temps 1839.36 9 115
+enregistrer_temps 1853.07 3 116
+enregistrer_temps 1858.35 10 115
+enregistrer_temps 1871.46 4 116
+enregistrer_temps 1876.21 11 115
+enregistrer_temps 1890.75 5 116
+enregistrer_temps 1894.83 12 115
+enregistrer_temps 1907.65 6 116
+enregistrer_temps 1910.51 13 115
+enregistrer_temps 1920 0 117
+enregistrer_temps 1925.88 7 116
+enregistrer_temps 1929.79 14 115
+enregistrer_temps 1935.85 1 117
+enregistrer_temps 1944.65 8 116
+enregistrer_temps 1949.66 15 115
+enregistrer_temps 1953.59 2 117
+enregistrer_temps 1963.33 9 116
+enregistrer_temps 1972.01 3 117
+enregistrer_temps 1981.78 10 116
+enregistrer_temps 1991.35 4 117
+enregistrer_temps 1998.19 11 116
+enregistrer_temps 2009.31 5 117
+enregistrer_temps 2014.81 12 116
+enregistrer_temps 2026.94 6 117
+enregistrer_temps 2034.15 13 116
+enregistrer_temps 2040 0 118
+enregistrer_temps 2042.78 7 117
+enregistrer_temps 2049.43 14 116
+enregistrer_temps 2056.73 1 118
+enregistrer_temps 2059.24 8 117
+enregistrer_temps 2065.25 15 116
+enregistrer_temps 2071.98 2 118
+enregistrer_temps 2077.83 9 117
+enregistrer_temps 2089.09 3 118
+enregistrer_temps 2097.44 10 117
+enregistrer_temps 2107.5 4 118
+enregistrer_temps 2115.47 11 117
+enregistrer_temps 2126.1 5 118
+enregistrer_temps 2135.47 12 117
+enregistrer_temps 2145.75 6 118
+enregistrer_temps 2154.24 13 117
+enregistrer_temps 2160 0 119
+enregistrer_temps 2165.69 7 118
+enregistrer_temps 2172.69 14 117
+enregistrer_temps 2179.92 1 119
+enregistrer_temps 2181.34 8 118
+enregistrer_temps 2192.21 15 117
+enregistrer_temps 2197.62 2 119
+enregistrer_temps 2200.59 9 118
+enregistrer_temps 2214.61 3 119
+enregistrer_temps 2217.96 10 118
+enregistrer_temps 2230.33 4 119
+enregistrer_temps 2234.74 11 118
+enregistrer_temps 2247.77 5 119
+enregistrer_temps 2253.05 12 118
+enregistrer_temps 2267.57 6 119
+enregistrer_temps 2270.39 13 118
+enregistrer_temps 2280 0 120
+enregistrer_temps 2286.86 14 118
+enregistrer_temps 2287.31 7 119
+disqualification 1 120 
+enregistrer_temps 2305.01 8 119
+enregistrer_temps 2306.66 15 118
+enregistrer_temps 2322.43 9 119
+enregistrer_temps 2341.53 10 119
+enregistrer_temps 2358.94 11 119
+enregistrer_temps 2377.48 12 119
+enregistrer_temps 2396.88 13 119
+enregistrer_temps 2400 0 121
+enregistrer_temps 2413.59 14 119
+enregistrer_temps 2415.38 1 121
+enregistrer_temps 2432.76 15 119
+enregistrer_temps 2433.5 2 121
+enregistrer_temps 2452.99 3 121
+enregistrer_temps 2470.26 4 121
+enregistrer_temps 2486.09 5 121
+enregistrer_temps 2502.25 6 121
+enregistrer_temps 2520 0 122
+enregistrer_temps 2520.83 7 121
+disqualification 8 121 
+enregistrer_temps 2539.79 1 122
+enregistrer_temps 2555.18 2 122
+enregistrer_temps 2571.46 3 122
+enregistrer_temps 2588.92 4 122
+enregistrer_temps 2608.32 5 122
+enregistrer_temps 2625.16 6 122
+enregistrer_temps 2640 0 123
+enregistrer_temps 2641.15 7 122
+enregistrer_temps 2659.79 1 123
+enregistrer_temps 2660.85 8 122
+enregistrer_temps 2676.57 9 122
+enregistrer_temps 2679.45 2 123
+enregistrer_temps 2695.14 10 122
+enregistrer_temps 2697.04 3 123
+disqualification 4 123 
+enregistrer_temps 2712.45 11 122
+enregistrer_temps 2729.13 12 122
+disqualification 13 122 
+enregistrer_temps 2760 0 124
+enregistrer_temps 2779.75 1 124
+enregistrer_temps 2799.46 2 124
+enregistrer_temps 2815.5 3 124
+enregistrer_temps 2831.28 4 124
+enregistrer_temps 2846.77 5 124
+enregistrer_temps 2866.41 6 124
+enregistrer_temps 2880 0 125
+enregistrer_temps 2882.57 7 124
+enregistrer_temps 2897.48 1 125
+enregistrer_temps 2899.15 8 124
+enregistrer_temps 2914.71 9 124
+enregistrer_temps 2916.49 2 125
+enregistrer_temps 2932.04 3 125
+enregistrer_temps 2932.9 10 124
+enregistrer_temps 2950.28 4 125
+enregistrer_temps 2952.45 11 124
+disqualification 5 125 
+enregistrer_temps 2971.2 12 124
+enregistrer_temps 2986.46 13 124
+enregistrer_temps 3002.4 14 124
+enregistrer_temps 3019.32 15 124
+

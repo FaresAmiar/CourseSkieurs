@@ -1,0 +1,51 @@
+inscription dossard 101
+inscription dossard 102
+inscription dossard 103
+inscription dossard 104
+inscription dossard 105
+inscription dossard 106
+inscription dossard 107
+inscription dossard 108
+inscription dossard 109
+inscription dossard 110
+inscription dossard 111
+inscription dossard 112
+inscription dossard 113
+inscription dossard 114
+inscription dossard 115
+inscription dossard 116
+inscription dossard 117
+inscription dossard 118
+inscription dossard 119
+inscription dossard 120
+inscription dossard 121
+inscription dossard 122
+inscription dossard 123
+inscription dossard 124
+inscription dossard 125
+detection_fin_course
+15 102 Shiffrin USA 246.54
+15 107 Hansdotter Suede 251.50
+15 124 Shild Autriche 259.32
+15 110 Goggia Italie 261.51
+15 109 Fenninger Autriche 262.52
+15 116 Rebensburg Allemagne 265.25
+15 112 Holdener Suisse 265.31
+15 114 Fanchini Italie 266.19
+15 118 Curtoni Italie 266.66
+15 108 Moelgg Italie 267.27
+15 115 Gisin Suisse 269.66
+15 117 Vlhova Slovaquie 272.21
+15 119 Ferk Slovenie 272.76
+disqualifie 122 Gut Suisse
+disqualifie 105 Rebensburg Allemagne
+disqualifie 106 Bassino Italie
+disqualifie 121 Johnson USA
+disqualifie 104 Mowinckel Norvege
+disqualifie 113 Weirather Liechtenstein
+disqualifie 125 Alphand France
+disqualifie 103 Brigone Italie
+disqualifie 123 Suter Suisse
+disqualifie 101 Worley France
+disqualifie 120 Hansdotter Suede
+disqualifie 111 Vonn USA

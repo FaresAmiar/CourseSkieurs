@@ -1,0 +1,127 @@
+inscription dossard 101
+inscription dossard 102
+inscription dossard 103
+inscription dossard 104
+inscription dossard 105
+inscription dossard 106
+inscription dossard 107
+inscription dossard 108
+inscription dossard 109
+inscription dossard 110
+inscription dossard 111
+inscription dossard 112
+inscription dossard 113
+inscription dossard 114
+inscription dossard 115
+inscription dossard 116
+inscription dossard 117
+inscription dossard 118
+inscription dossard 119
+inscription dossard 120
+inscription dossard 121
+inscription dossard 122
+inscription dossard 123
+inscription dossard 124
+inscription dossard 125
+4 102 Shiffrin USA 68.31
+7 102 Shiffrin USA 114.64
+12 102 Shiffrin USA 199.98
+1 107 Hansdotter Suede 15.32
+1 108 Moelgg Italie 16.01
+1 110 Goggia Italie 16.52
+1 103 Brigone Italie 16.87
+1 106 Bassino Italie 16.90
+1 102 Shiffrin USA 17.11
+1 104 Mowinckel Norvege 18.00
+1 105 Rebensburg Allemagne 18.13
+1 109 Fenninger Autriche 18.89
+1 101 Worley France 19.82
+6 107 Hansdotter Suede 96.75
+6 102 Shiffrin USA 99.16
+6 110 Goggia Italie 100.63
+6 106 Bassino Italie 101.58
+6 104 Mowinckel Norvege 103.30
+6 108 Moelgg Italie 105.05
+6 112 Holdener Suisse 108.15
+6 109 Fenninger Autriche 108.20
+6 105 Rebensburg Allemagne 112.62
+1 107 Hansdotter Suede 15.32
+1 117 Vlhova Slovaquie 15.85
+1 108 Moelgg Italie 16.01
+1 115 Gisin Suisse 16.08
+1 110 Goggia Italie 16.52
+1 118 Curtoni Italie 16.73
+1 103 Brigone Italie 16.87
+1 106 Bassino Italie 16.90
+1 102 Shiffrin USA 17.11
+1 112 Holdener Suisse 17.22
+1 114 Fanchini Italie 17.50
+1 104 Mowinckel Norvege 18.00
+1 105 Rebensburg Allemagne 18.13
+1 113 Weirather Liechtenstein 18.68
+1 109 Fenninger Autriche 18.89
+1 116 Rebensburg Allemagne 18.91
+1 101 Worley France 19.82
+1 119 Ferk Slovenie 19.92
+8 107 Hansdotter Suede 128.96
+8 102 Shiffrin USA 133.46
+8 110 Goggia Italie 135.25
+8 117 Vlhova Slovaquie 139.24
+8 115 Gisin Suisse 140.37
+8 109 Fenninger Autriche 141.08
+8 108 Moelgg Italie 141.27
+8 118 Curtoni Italie 141.34
+8 114 Fanchini Italie 142.21
+8 105 Rebensburg Allemagne 143.91
+8 112 Holdener Suisse 144.28
+8 116 Rebensburg Allemagne 144.65
+8 119 Ferk Slovenie 145.01
+4 107 Hansdotter Suede 64.43
+4 110 Goggia Italie 66.89
+4 118 Curtoni Italie 67.50
+4 106 Bassino Italie 68.09
+4 102 Shiffrin USA 68.31
+4 104 Mowinckel Norvege 68.75
+4 122 Gut Suisse 68.92
+4 113 Weirather Liechtenstein 69.29
+4 112 Holdener Suisse 69.60
+4 108 Moelgg Italie 69.85
+4 114 Fanchini Italie 69.99
+4 121 Johnson USA 70.26
+4 119 Ferk Slovenie 70.33
+4 115 Gisin Suisse 70.54
+4 117 Vlhova Slovaquie 71.35
+4 116 Rebensburg Allemagne 71.46
+4 109 Fenninger Autriche 71.52
+4 105 Rebensburg Allemagne 74.04
+13 107 Hansdotter Suede 214.80
+13 102 Shiffrin USA 215.43
+13 110 Goggia Italie 224.48
+13 109 Fenninger Autriche 229.83
+13 118 Curtoni Italie 230.39
+13 115 Gisin Suisse 230.51
+13 108 Moelgg Italie 230.61
+13 112 Holdener Suisse 231.62
+13 116 Rebensburg Allemagne 234.15
+13 114 Fanchini Italie 234.18
+13 117 Vlhova Slovaquie 234.24
+13 119 Ferk Slovenie 236.88
+5 107 Hansdotter Suede 80.83
+5 102 Shiffrin USA 83.90
+5 106 Bassino Italie 84.46
+5 110 Goggia Italie 84.82
+5 113 Weirather Liechtenstein 85.60
+5 121 Johnson USA 86.09
+5 118 Curtoni Italie 86.10
+5 124 Shild Autriche 86.77
+5 104 Mowinckel Norvege 87.00
+5 114 Fanchini Italie 87.52
+5 115 Gisin Suisse 87.62
+5 119 Ferk Slovenie 87.77
+5 122 Gut Suisse 88.32
+5 108 Moelgg Italie 88.64
+5 112 Holdener Suisse 89.28
+5 117 Vlhova Slovaquie 89.31
+5 116 Rebensburg Allemagne 90.75
+5 109 Fenninger Autriche 91.24
+5 105 Rebensburg Allemagne 92.73

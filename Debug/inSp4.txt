@@ -1,0 +1,38 @@
+definir_course 2
+inscrire_skieur Worley France
+inscrire_skieur Shiffrin USA
+inscrire_skieur Brigone Italie
+inscrire_skieur Mowinckel Norvege
+inscrire_skieur Rebensburg Allemagne
+inscrire_skieur Bassino Italie
+inscrire_skieur Hansdotter Suede
+inscrire_skieur Moelgg Italie
+inscrire_skieur Fenninger Autriche
+inscrire_skieur Goggia Italie
+inscrire_skieur Vonn USA
+afficher_skieurs
+enregistrer_temps 0.00 0 101
+disqualification 0 102
+enregistrer_temps 120.00 0 103
+enregistrer_temps 180.00 0 104
+enregistrer_temps 240.00 0 105
+enregistrer_temps 300.00 0 106
+enregistrer_temps 360.00 0 107
+disqualification 1 101
+enregistrer_temps 415.40 1 103
+enregistrer_temps 420.00 0 108
+enregistrer_temps 440.70 1 105
+enregistrer_temps 480.00 0 109
+enregistrer_temps 500.50 1 104
+enregistrer_temps 515.10 1 106
+enregistrer_temps 540.00 0 110
+enregistrer_temps 600.00 0 111
+enregistrer_temps 600.80 1 107
+enregistrer_temps 614.40 2 103
+enregistrer_temps 641.70 2 105
+enregistrer_temps 680.30 1 108
+enregistrer_temps 684.10 2 106
+enregistrer_temps 699.50 2 104
+enregistrer_temps 730.90 1 109
+afficher_classement 1
+exit
